@@ -5,7 +5,7 @@ var lastPress = 0;
 for(let i=0;i<4;i++){
   for(let j=0;j<4;j++){
 	let img = require("Storage").read("c"+i+j);
-    g.drawImage(img2,i*60,j*60);
+    g.drawImage(img,i*60,j*60);
   }
 }
 
