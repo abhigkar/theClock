@@ -1,0 +1,6 @@
+{
+  "name":"The Clock","type":"clock",
+  "icon":"*the-clock",
+  "src":"-the-clock",
+  "sortorder":-10
+}
